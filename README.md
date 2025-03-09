@@ -1,5 +1,5 @@
 # Proton VPN Attention Killer
-Automatically closes the Proton VPN Attention screen caused by dual boot time synchronization issues upon PC startup
+Automatically kills the Proton VPN Attention screen caused by dual boot time synchronization issues upon PC startup
 
 ## Getting started
 Enter `pip install --upgrade -r requirements.txt` in the parent directory
