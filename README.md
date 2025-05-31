@@ -1,7 +1,7 @@
 # Proton VPN Attention Killer
-Windwows script that automatically kills the Proton VPN Attention screen caused by dual boot time synchronization issues upon PC startup
+Python script that automatically kills the Proton VPN Attention screen caused by dual boot time synchronization issues upon Windows startup
 
-Deprecated after Proton VPN v4 since the popup is now integrated to the core service
+Deprecated after Proton VPN v4 since the warning popup is now integrated to the core service
 
 ## Getting started
 Enter `pip install --upgrade -r requirements.txt` in the parent directory
